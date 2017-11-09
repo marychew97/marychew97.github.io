@@ -37,3 +37,7 @@ background-attachment:fixed;
 	background-color: black;
 	color:white;
 }
+
+blockquote {
+	color:white;
+}
