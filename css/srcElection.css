@@ -1,0 +1,44 @@
+body{
+font-family: 'Gloria Hallelujah', cursive;
+line-height: 45px;
+background-color: #e1c1ac;
+background-attachment:fixed;
+}
+
+.uk-navbar-item{
+    color:white;
+}
+
+.uk-navbar-item:hover{
+    color:white;
+}
+
+.uk-width-auto img{
+   border-radius: 50px 50px 50px 50px;
+}
+
+.uk-card .uk-width-expand h3, .uk-card .uk-width-expand p{
+    text-align:left;  
+    padding-left:20px;
+}
+
+/*.uk-card .uk-width-expand h3{
+	font-family: 'Gloria Hallelujah', cursive;
+}*/
+
+.header h2, .header1, h2{
+	text-align:center;
+	padding: 20px;
+	/*font-family: 'Gloria Hallelujah', cursive;*/
+}
+
+.header i{
+	font-size:50px;
+	color:black;
+}
+
+.uk-section{
+	text-align:center;
+	background-color: black;
+	color:white;
+}
