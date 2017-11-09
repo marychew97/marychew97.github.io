@@ -22,14 +22,9 @@ background-attachment:fixed;
     padding-left:20px;
 }
 
-/*.uk-card .uk-width-expand h3{
-	font-family: 'Gloria Hallelujah', cursive;
-}*/
-
 .header h2, .header1, h2{
 	text-align:center;
 	padding: 20px;
-	/*font-family: 'Gloria Hallelujah', cursive;*/
 }
 
 .header i{
